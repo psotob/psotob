@@ -4,46 +4,31 @@
 
 # Hello, folks! <img src="https://github.com/psotob/psotob/blob/main/Gifts/wave.gif?raw=true" width="30px">
 
-My name is Percy Soto-Becerra and I'm a medical doctor (M.D.) with a Master in Science degree in Epidemiologist Research and Statistics. Currently, I'm focused in doing and teaching Health Data Science. I'm from Peru, living in Lima and currently working at IETSI, EsSalud. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Percy Soto-Becerra and I'm a medical doctor (M.D.) with a Master in Science degree in Epidemiologist Research. Currently, I'm taking a Master in Science in Statistics. Also, I'm focused in doing/teaching Health Data Science. I'm from Peru, living in Lima and currently working at IETSI, EsSalud. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
-[![RStudio: RStudio IDE](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Frstudio-ide.json)](https://community.rstudio.com/c/rstudio-ide)
-[![RStudio Community: R Markdown](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2FR-Markdown.json)](https://community.rstudio.com/c/R-Markdown)
-[![RStudio Community: tidyverse](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Ftidyverse.json)](https://community.rstudio.com/c/tidyverse)
-[![RStudio Community: Teaching](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Fteaching.json)](https://community.rstudio.com/c/teaching)
-[![RStudio Community: Machine Learning and Modeling](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Fml.json)](https://community.rstudio.com/c/ml)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-## &#x270d; Blog & Writing
+![](https://img.shields.io/badge/Code-Stata-informational?style=flat&logoColor=white&color=38BA8D)
+![](https://img.shields.io/badge/Code-R%20project-informational?style=flat&logo=R&logoColor=white&color=38BA8D)
+![](https://img.shields.io/badge/Code-R%20Studio-informational?style=flat&logo=RStudio&logoColor=white&color=38BA8D)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=38BA8D)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=38BA8D)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=38BA8D)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=38BA8D)
+![](https://img.shields.io/badge/Tools-Zotero-informational?style=flat&logo=zotero&logoColor=white&color=38BA8D)
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+## &#x270d; Scientific Profile
 
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Creating Beautiful Tracebacks with Python&#39;s Exception Hooks](https://bit.ly/3IRD7IK)
-- [Building GitHub Apps with Golang](https://bit.ly/3A3B69t)
-- [Profiling and Analyzing Performance of Python Programs](https://bit.ly/31lKCYA)
-- [Improving Application Availability with Pod Readiness Gates](https://bit.ly/30uviIM)
-<!-- BLOG-POST-LIST:END -->
+As a scientist, I also publish papers - you can find my articles on my [Google Scholar's Profile](https://scholar.google.com/citations?user=lYRCQzYAAAAJ&hl=en), as well as my [ORCiD's page](https://orcid.org/0000-0001-5332-9254) or [CTI VITAE](http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=19212). 
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/psotob">
+<a href="https://github.com/psotob/psotob">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psotob&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/psotob">
+<a href="https://github.com/psotob/psotob">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=psotob&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Percy's GitHub Stats" />
 </a>
-
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/psotob/glm_diagnostic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
 <!-- links to social media icons -->
 
@@ -61,9 +46,9 @@ A sample of my recent articles:
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/PercySotoBecer1
+[2]: https://github.com/psotob
+[3]: https://pe.linkedin.com/in/psotobecerra
 
 
 <!-- Resources -->
