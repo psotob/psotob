@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://github.com/psotob/psotob/blob/main/Gifts/wave.gif?raw=true" width="30px">
 
-My name is Percy Soto-Becerra and I'm a medical doctor (M.D.) with a Master in Science degree in Epidemiologist Research. Currently, I'm taking a Master in Science in Statistics. Also, I'm focused in doing/teaching Health Data Science. I'm from Peru, living in Lima and currently working at IETSI, EsSalud. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Percy Soto-Becerra and I'm a medical doctor (M.D.) and researcher. I completed a Master in Science in Epidemiologist Research. Currently, I'm taking a Master of Science in Statistics. Also, I'm focused on doing/teaching Health Data Science. I'm from Peru, living in Lima and working at IETSI, EsSalud. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
@@ -19,7 +19,7 @@ My name is Percy Soto-Becerra and I'm a medical doctor (M.D.) with a Master in S
 
 ## &#x270d; Scientific Profile
 
-As a scientist, I also publish papers - you can find my articles on my [Google Scholar's Profile](https://scholar.google.com/citations?user=lYRCQzYAAAAJ&hl=en), as well as my [ORCiD's page](https://orcid.org/0000-0001-5332-9254) or [CTI VITAE](http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=19212). 
+As a scientist, I diseminate my research as papers published in peer-review journal. You can find my articles on my [Google Scholar's Profile](https://scholar.google.com/citations?user=lYRCQzYAAAAJ&hl=en), as well as my [ORCiD's page](https://orcid.org/0000-0001-5332-9254) or [CTI VITAE](http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=19212). 
 
 ## &#x1f4c8; GitHub Stats
 
