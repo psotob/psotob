@@ -4,7 +4,9 @@
 
 # Hello, folks! <img src="https://github.com/psotob/psotob/blob/main/Gifts/wave.gif?raw=true" width="30px">
 
-My name is Percy Soto-Becerra and I'm a medical doctor (M.D.) and a health researcher. I completed a Master in Science in Epidemiologist Research. Currently, I'm taking a Master of Science in Statistics. Also, I'm focused on doing/teaching Health Data Science. I'm from Peru, living in Lima and working at IETSI, EsSalud. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Percy Soto-Becerra and I'm a medical doctor (M.D.) and a health researcher. I completed a Master in Science in Epidemiologist Research and, currently, I'm studying a Master of Science in Applied Statistics and taking advanced courses on topics related to Mathematical Statistics, Machine Learning and Causal Inference. Also, I'm focused on doing/teaching Health Data Science for research purposes, emphasizing well-sound pratices and avoiding misconceptions and/or misuse of these methods. 
+
+I'm from Peru, living in Lima and working at IETSI, EsSalud. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
