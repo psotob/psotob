@@ -23,11 +23,11 @@ As a scientist, I diseminate my research as papers published in peer-review jour
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/psotob/psotob">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psotob&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/psotob91/psotob91">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psotob91&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/psotob/psotob">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=psotob&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Percy's GitHub Stats" />
+<a href="https://github.com/psotob91/psotob91">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=psotob91&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Percy's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
@@ -46,8 +46,8 @@ As a scientist, I diseminate my research as papers published in peer-review jour
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/PercySotoBecer1
-[2]: https://github.com/psotob
+[1]: https://twitter.com/psotob91
+[2]: https://github.com/psotob91
 [3]: https://pe.linkedin.com/in/psotobecerra
 
 
